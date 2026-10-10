@@ -1,2 +1,2 @@
 # py-check
-password checker
+password maker
